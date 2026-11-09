@@ -35,6 +35,12 @@ Model weights and llama.cpp binaries are **not included**.
 
 ## Installation
 
+### ComfyUI Manager
+
+Search for **MOSS Prompt Enhancer Local** in ComfyUI Manager, or install Registry ID `comfyui-moss-prompt-enhancer-local`.
+
+[Comfy Registry page](https://registry.comfy.org/nodes/comfyui-moss-prompt-enhancer-local)
+
 ### 1. Install the node
 
 From your ComfyUI directory:

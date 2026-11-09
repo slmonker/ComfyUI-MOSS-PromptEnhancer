@@ -10,3 +10,4 @@ runtime/
 VERIFICATION.md
 tests/*
 !tests/test_prompt_node.py
+node.zip
